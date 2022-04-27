@@ -1,0 +1,20 @@
+img {
+  align-self: center;
+}
+
+h1 {
+  font-family: 'Belmont';
+  font-style: normal;
+  font-size: 100px;
+  color: white;
+  width: 1920px;
+  text-align: center;
+}
+
+#headingcont {
+  position: absolute;
+  top: 90%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+

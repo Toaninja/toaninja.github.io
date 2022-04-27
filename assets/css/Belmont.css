@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Belmont';
+	src: url(../../assets/fonts/Belmont-Regular.woff2) format('woff2'),
+	url(../../assets/fonts/Belmont-Regular.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
