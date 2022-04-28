@@ -70,7 +70,7 @@ div {
   text-align: center;
 }
 
-#projects {
+#westfallengame {
   background-color: black;
 }
 
@@ -119,5 +119,9 @@ div {
 
 #smrow {
   font-size: 50px;
+}
+
+#steam {
+  padding: 10px;
 }
 
