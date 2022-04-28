@@ -58,8 +58,8 @@ html {
 }
 
 #carousel-1 {
-  margin: 150px;
-  margin-top: 50px;
+  margin: 10%;
+  margin-top: 10%;
 }
 
 section {
@@ -94,7 +94,7 @@ html {
 }
 
 #projects {
-  padding: 50px;
+  padding-top: 50px;
 }
 
 #about-us-column {
